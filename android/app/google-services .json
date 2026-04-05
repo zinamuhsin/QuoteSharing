@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683607710760",
+    "project_id": "quote-sharing-app",
+    "storage_bucket": "quote-sharing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683607710760:android:83f6f9d2636561ece3a91d",
+        "android_client_info": {
+          "package_name": "quote.sharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-wXpkEaqnnB_HC17dydkfUGT8Yq9yPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
